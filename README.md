@@ -1,4 +1,4 @@
-# Bhumil Modi
+<a href="https://bhumil-modi.vercel.app"><img src="./banner.png" alt="Bhumil Modi — Forward Deployed AI Engineer" width="100%"></a>
 
 **Forward Deployed AI Engineer**
 
