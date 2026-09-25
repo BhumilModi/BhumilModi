@@ -1,61 +1,49 @@
-<a href="https://bhumil-modi.vercel.app"><img src="./banner.png" alt="Bhumil Modi — Forward Deployed AI Engineer" width="100%"></a>
+<p align="center">
+  <img src="./assets/banner.svg" alt="Bhumil Modi — Forward Deployed AI Engineer, agentic systems" width="100%" />
+</p>
 
-**Forward Deployed AI Engineer**
+### I deploy agentic systems inside the customer.
 
-I take AI products from an empty repository to production — on weekly calls with client stakeholders, writing the pipelines, the services, the frontend, and the deploys myself.
+On the weekly call with your stakeholders, then building the agent pipelines, services and frontends myself — **working POC in two weeks, live beta inside five months.**
 
-Most recently in clinical systems, where wrong output reaches patients.
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bhumil-modi.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumil-modi-430148190/)
-[![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumilmodi2002@gmail.com)
+### How an engagement runs
 
----
+<img src="./assets/engagement.svg" alt="Embed at kickoff, prototype by week 2, build by month 2–2.5, beta with real users by month 4–5" width="100%" />
 
-### Currently
+**20+** client products · **10+** from empty repository to live beta · **10** domains · **6** as project lead · **3,792** commits since Feb 2025
 
-Forward Deployed AI Engineer at **[TheAgentic](https://theagentic.ai)** — an applied AI research company building and launching vertical AI companies. 10+ greenfield client engagements taken from a blank repository to release. Project lead on six products.
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-Client engagements are under NDA, so what's public is the open source below.
+### Approach
 
----
-
-### Open source
-
-| Project | What it is |
+| | |
 |---|---|
-| **[CortexON](https://github.com/TheAgenticAI/CortexON)** | Generalized AI agent for everyday task automation |
-| **[TheAgenticBrowser](https://github.com/TheAgenticAI/TheAgenticBrowser)** | AI agent for web automation and scraping |
-| **[TheAgenticBench](https://github.com/TheAgenticAI/TheAgenticBench)** | Digital Worker framework for agent-driven research |
+| **#1 Embed** | Start on the call. Requirements arrive ambiguous; I turn them into an agent design. |
+| **#2 Design** | Structure first, model second. Planners, tools and staged pipelines give the agent a shape. |
+| **#3 Guard** | Gates before output. Verification gates, bounded repair, fail-closed steps. |
+| **#4 Measure** | Evals, not vibes. Deterministic checks plus model judges on fixed datasets. |
+| **#5 Integrate** | Into their stack. Auth, tenancy, provider abstraction, rate limits, concurrency. |
+| **#6 Ship** | Past the demo. Beta with real users, release pipelines, embeddable SDKs. |
 
-I led open-source UI development across these platforms — **900+ stars, 170+ forks** combined.
+<img src="./assets/divider.svg" alt="" width="100%" />
 
----
+### Built at TheAgentic
 
-### What I build
-
-**AI systems that have to be right.** Multi-stage LLM orchestration with verification stages and human-in-the-loop fallbacks. Deterministic pronunciation systems for multilingual TTS. Production data tooling with dry-run previews and honest failure states.
-
-Three things I've come to believe:
-
-- **Put the model where determinism runs out**, not where the work starts
-- **Verification is a product surface, not a test** — someone has to see the failure and fix it
-- **False success costs more than failure** — a tool that lies is worse than one that crashes
-
----
+- **[CortexON](https://github.com/TheAgenticAI/CortexON)** — open-source generalised agent for everyday task automation · ★ 450+ · frontend contributor
+- **[TheAgenticBench](https://github.com/TheAgenticAI/TheAgenticBench)** — open-source digital-worker framework for agent-driven research · ★ 50+ · frontend contributor
+- **TheAgentic Console** — developer console for TheAgentic's AI infrastructure · built the entire UI
 
 ### Stack
 
-`Python` `TypeScript` `Kotlin` `SQL`
+`Python` `TypeScript` `Go` `SQL` · `FastAPI` `Node.js` · `React` `Next.js` `Tailwind CSS` · `PostgreSQL` `Redis` `Docker` `AWS` `Auth0`
 
-**AI/LLM** — pipeline orchestration · agentic workflow design · Claude via OpenRouter · provider abstraction · output verification · human-in-the-loop review · espeak-ng G2P/IPA
+<img src="./assets/divider.svg" alt="" width="100%" />
 
-**Backend** — FastAPI · Node.js · Spring Boot (Kotlin) · .NET
-
-**Frontend** — React (Vite) · Redux Toolkit · ShadCN UI · Tailwind CSS
-
-**Data & Deploy** — PostgreSQL · Docker · GitHub Actions · DigitalOcean · AWS S3/Cognito · Auth0 · SuperTokens
-
----
-
-<sub>B.Tech Computer Science & Engineering (AI/ML), Vellore Institute of Technology · Ankleshwar, Gujarat, India</sub>
+<p align="center">
+  <a href="https://bhumil-modi.vercel.app"><b>Portfolio</b></a> ·
+  <a href="https://www.linkedin.com/in/bhumil-modi-430148190">LinkedIn</a> ·
+  <a href="mailto:bhumilmodi2002@gmail.com">bhumilmodi2002@gmail.com</a> ·
+  <a href="https://bhumil-modi.vercel.app/Bhumil-Modi-Resume-FDE.pdf">Resume</a>
+</p>
