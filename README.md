@@ -6,6 +6,7 @@ I take AI products from an empty repository to production — on weekly calls wi
 
 Most recently in clinical systems, where wrong output reaches patients.
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://bhumil-modi.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhumil-modi-430148190/)
 [![Email](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhumilmodi2002@gmail.com)
 
